@@ -1,0 +1,7 @@
+/.direnv
+/.vscode
+/CMakeFiles
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/pylon-cpp-repr
